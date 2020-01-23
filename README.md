@@ -35,15 +35,13 @@ Activating Virtual  Environment
 ```
 source .env/bin/activate
 ```
-Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(Catalogue-management-system/backend/) is and type the following code in your terminal:
 
-```
-pip install requirements.txt
+
 ```
 
 ### Database setup
 
-If all requirements are installed, then Postgres database must be set up as per stated below.
+If all requirements are installed, then Sqlite database must be set up as stated below.
 
 Activating postgres
 ```
