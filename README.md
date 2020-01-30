@@ -43,7 +43,7 @@ Activating postgres
 sudo su postgres
 
 ```
-Get in to postgres shell
+Get in to  shell
 ```
 sqlite
 
