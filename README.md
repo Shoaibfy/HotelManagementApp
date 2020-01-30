@@ -78,7 +78,7 @@ Password: admin
 
 ```
 
-Then to run the server, go to the directory '/Trip-Control/tripcontrol' and type the following code in terminal:
+Then to run the server, go to the directory '/HotelManagementApp/HotelManagementSystem' and type the following code in terminal:
 
 ```
 python3 manage.py runserver
